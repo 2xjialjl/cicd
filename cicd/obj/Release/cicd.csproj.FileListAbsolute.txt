@@ -110,9 +110,3 @@ d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\bin\zh-Hant\Micro
 d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\bin\zh-Hant\System.Web.Http.Owin.resources.dll
 d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\obj\Release\cicd.dll
 d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\obj\Release\cicd.pdb
-d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
-d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\bin\Swashbuckle.Core.dll
-d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\bin\System.IdentityModel.Tokens.Jwt.dll
-d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\bin\WebActivatorEx.dll
-d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\bin\System.IdentityModel.Tokens.Jwt.xml
-d:\users\02349\documents\visual studio 2015\Projects\cicd\cicd\obj\Release\cicd.csprojResolveAssemblyReference.cache
